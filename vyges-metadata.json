@@ -27,7 +27,7 @@
       "rtl/prim_xor2.sv"
     ]
   },
-  "updated": "2026-02-19T06:12:02Z",
+  "updated": "2026-02-19T06:22:56Z",
   "$schema": "https://vyges.com/schema/v1/vyges-metadata.schema.json",
   "x-version": "1.0.0",
   "description": "Prim Xilinx. OpenTitan IP block from hw/ip/prim_xilinx.",
@@ -66,5 +66,11 @@
   "community": {
     "issues": "https://github.com/vyges-ip/opentitan-prim-xilinx/issues",
     "contributions": "https://github.com/vyges-ip/opentitan-prim-xilinx/pulls"
+  },
+  "branding": {
+    "provider": "Vyges IP Catalog",
+    "logo": "https://vyges.com/assets/logo.svg",
+    "website": "https://github.com/vyges-ip/opentitan-prim-xilinx",
+    "usage": "Use of the logo is permitted for attribution or compatibility references only."
   }
 }
