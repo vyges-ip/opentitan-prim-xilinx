@@ -14,7 +14,7 @@
     "digital"
   ],
   "created": "2026-03-27T23:05:46Z",
-  "updated": "2026-03-27T23:05:46Z",
+  "updated": "2026-04-02T04:30:00Z",
   "source": {
     "type": "git",
     "url": "https://github.com/lowRISC/opentitan",
@@ -182,5 +182,50 @@
     "schema": {
       "version": "1.0.0"
     }
-  }
+  },
+  "rtl_files": [
+    "rtl/prim_and2.sv",
+    "rtl/prim_buf.sv",
+    "rtl/prim_clock_buf.sv",
+    "rtl/prim_clock_gating.sv",
+    "rtl/prim_clock_mux2.sv",
+    "rtl/prim_flop.sv",
+    "rtl/prim_flop_en.sv",
+    "rtl/prim_pad_attr.sv",
+    "rtl/prim_pad_wrapper.sv",
+    "rtl/prim_pkg.sv",
+    "rtl/prim_ram_1p.sv",
+    "rtl/prim_xilinx_pkg.sv",
+    "rtl/prim_xilinx_rom.sv",
+    "rtl/prim_xnor2.sv",
+    "rtl/prim_xor2.sv",
+    "rtl/prim_and2.sv",
+    "rtl/prim_buf.sv",
+    "rtl/prim_clock_buf.sv",
+    "rtl/prim_clock_gating.sv",
+    "rtl/prim_clock_mux2.sv",
+    "rtl/prim_flop.sv",
+    "rtl/prim_flop_en.sv",
+    "rtl/prim_pad_attr.sv",
+    "rtl/prim_pad_wrapper.sv",
+    "rtl/prim_pkg.sv",
+    "rtl/prim_ram_1p.sv",
+    "rtl/prim_xilinx_pkg.sv",
+    "rtl/prim_xilinx_rom.sv",
+    "rtl/prim_xnor2.sv",
+    "rtl/prim_xor2.sv"
+  ],
+  "rtl_quality": {
+    "module_prefixed": true,
+    "defines_prefixed": true,
+    "header_guards": false,
+    "one_module_per_file": true,
+    "self_contained_includes": false,
+    "no_translate_pragmas": true,
+    "lint_clean": false,
+    "no_casex": true,
+    "width_clean": false,
+    "no_sv_keyword_conflicts": true
+  },
+  "defines": []
 }
